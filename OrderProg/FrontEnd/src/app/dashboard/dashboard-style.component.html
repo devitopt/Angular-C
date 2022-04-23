@@ -1,0 +1,53 @@
+<div class="row">
+    <div class="col-md-12">
+        <div class="card">
+            <div class="card-body">
+                <div class="table-responsive">
+                    <table class="table">
+                        <thead class=" text-primary">
+                            <th>Style</th>
+                            <th>Quantity</th>
+                            <th>Purchase Price </th>
+                            <th>Exchange Rate Purchase Price </th>
+                            <th>Rate of Duty </th>
+                            <th>Sum of Markup </th>
+                            <th>Selling Price GP </th>
+                            <th>Selling Price incl. incoterm </th>
+                            <th>Sum of Markdown </th>
+                            <th>Motiv </th>
+                            <th>Details </th>
+                            <th>Remove </th>
+                        </thead>
+                        <tbody>
+                            <tr *ngFor="let item of Order.orderStyles; index as i">
+                                <td>{{item.title}}</td>
+                                <td>{{item.quantityPlaced}}</td>
+                                <td>
+                                    <ng-container *ngIf="item.purchasePrice3 > 0;else second">${{item.purchasePrice3}}</ng-container>
+                                    <ng-template #second>
+                                        <ng-container *ngIf="item.purchasePrice2 > 0;else third">${{item.purchasePrice2}}</ng-container>
+                                    </ng-template>
+                                    <ng-template #third>${{item.purchasePrice1}}</ng-template>
+                                </td>
+                                <td>${{item.exchangeRatePurchasePrice}}</td>
+                                <td> ${{item.rateOfDutyPuchasePrice}}</td>
+                                <td> $36,738 </td>
+                                <td> ${{item.vKGP}}</td>
+                                <td> ${{item.vKGPNachLB}} </td>
+                                <td> $36,738 </td>
+                                <td> $36,738 </td>
+                                <td>
+                                    <a type="button" class="btn btn-success" (click)="openStyleModal(true, i)">Detail</a>
+                                </td>
+                                <td>
+                                    <a type="button" class="btn btn-danger" (click)="removeStyle(i)">Remove</a>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <button (click)="openStyleModal(false, 0)" type="submit" class="btn btn-info">Add New Style</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

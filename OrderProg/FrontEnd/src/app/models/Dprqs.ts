@@ -1,0 +1,72 @@
+// blreceivedDate: null
+// cdExDate: "2021-08-10T00:00:00"
+// comment: null
+// comment2: null
+// fabricsFrom: null
+// forwarderDelivery: null
+// forwarderFreight: null
+// fri1Date: "2021-08-09T00:00:00"
+// fri1Qty: null
+// fri1Result: null
+// fri2Date: null
+// fri2Qty: null
+// fri2Result: null
+// fri3Date: null
+// fri3Qty: null
+// fri3Result: null
+// frilab: null
+// knitWoven: null
+// merchandiserSupplier: null
+// newSamplePickDate: "2021-08-10T00:00:00"
+// onSaleDate: null
+// order: null
+// orderId: 11
+// origSamplePickDate: "2021-08-10T00:00:00"
+// photoSampleDueDate: null
+// photoSampleRevisedDate: null
+// reSamplePick: null
+// reportAldiDate: "2021-08-09T00:00:00"
+// revisedEta: null
+// revisedEtd: null
+// shippingSchedule: null
+// spfinalResult: null
+// spshortResult: null
+// stylesCount: null
+
+
+export class DprqbModel {
+    public  orderId: number;
+    public  reportAldiDate: Date;
+    public  onSaleDate: Date;
+    public  revisedEtd: Date;
+    public  revisedEta: Date;
+    public  stylesCount: number;
+    public  knitWoven: string;
+    public  fabricsFrom: string;
+    public  photoSampleDueDate: Date;
+    public  cdExDate: Date;
+    public  testingLab: string;
+    public  origSamplePickDate: Date;
+    public  newSamplePickDate: Date;
+    public  spshortResult: string;
+    public  spfinalResult: string;
+    public  frilab: string;
+    public  fri1Date: Date;
+    public  fri1Qty: number;
+    public  fri1Result: string;
+    public  fri2Date: Date;
+    public  fri2Qty: number;
+    public  fri2Result: string;
+    public  fri3Date: Date;
+    public  fri3Qty: number;
+    public  fri3Result: string;
+    public  forwarderFreight: string;
+    public  forwarderDelivery: string;
+    public  blreceivedDate: Date;
+    public  comment: string;
+    public  merchandiserSupplier: string;
+    public  photoSampleRevisedDate: Date;
+    public  shippingSchedule: string;
+    public  reSamplePick: string;
+    public  comment2: string;
+    }

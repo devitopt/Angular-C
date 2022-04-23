@@ -1,0 +1,81 @@
+<div class="container-fluid">
+    <div class="card">
+
+        <div class="card-body">
+            <div class="card-title">
+                <h2>Main Production Factory</h2>
+            </div>
+            <div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <mat-form-field appearance="fill">
+                            <mat-label>Supplier Group</mat-label>
+                            <mat-select [(ngModel)]="Order.factoryGroup.id" name="factoryGroup">
+                                <mat-option *ngFor="let item of Order.factoryGroups" name="factoryGroups" [value]="item.id">
+                                    {{item.title}}
+                                </mat-option>
+                            </mat-select>
+                        </mat-form-field>
+
+                        <mat-form-field appearance="fill">
+                            <mat-label>Factory</mat-label>
+                            <input type="text"
+                            placeholder="Pick one"
+                            aria-label="Number"
+                            matInput
+                            [formControl]="myControl"
+                            [matAutocomplete]="auto">
+                            <mat-select [value]="Order.mainFactory?.id">
+                            <mat-autocomplete autoActiveFirstOption #auto="matAutocomplete">
+                                <mat-option *ngFor="let item of Order.factories" name="mainFactory" [value]="item.id">
+                                    {{item.title}}
+                                </mat-option>
+                              </mat-autocomplete>
+                            </mat-select>
+                        </mat-form-field>
+
+                        <mat-form-field appearance="fill">
+                            <mat-label>Country</mat-label>
+                            <mat-select [(ngModel)]="Order.country">
+                                <mat-option *ngFor="let item of Order.countries" name="country" [value]="item">
+                                    {{item}}
+                                </mat-option>
+                            </mat-select>
+                        </mat-form-field>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="card">
+                            <div class="card-header card-header-warning">
+                                <h4 class="card-title">Additional Factories</h4>
+                            </div>
+                            <div class="card-body table-responsive">
+
+                                <table class="table table-striped table-hover">
+                                    <thead>
+                                        <tr style="background-color: #00AA8D; color: #fff;">
+                                            <th>Name of Factory</th>
+                                            <th>Country of Factory</th>
+                                            <th>Remove</th>
+                                            <th></th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                      <tr *ngFor="let dataItem of Order.otherOrders; index as i">
+                                        <td>{{dataItem.orderId}}</td>
+                                        <td>{{dataItem.title}}</td>
+                                        <td>
+                                          <a type="button" class="btn btn-danger" (click)="removeFactory(i)">Remove</a>
+                                        </td>
+                                      </tr>
+                                    </tbody>
+                                </table>
+                                <button mat-raised-button type="submit" class="btn btn-info " (click)="factoryModal()">new additional Factory</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>

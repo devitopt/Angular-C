@@ -1,0 +1,435 @@
+<div class="row">
+    <div class="col-lg-6 col-md-12">
+        <div class="card">
+            <div class="card-body">
+                <form>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <mat-form-field class="example-full-width">
+                                <input matInput placeholder="Order Number" type="text" name="orderId" [(ngModel)]="Order.orderId" required>
+                            </mat-form-field>
+                        </div>
+                        <div class="col-md-6">
+                            <mat-form-field appearance="fill">
+                                <mat-label>Customer delivery date from</mat-label>
+                                <input matInput [matDatepicker]="customerDateFrom" name="deliveryDateFrom" [(ngModel)]="Order.deliveryDateFrom">
+                                <mat-datepicker-toggle matSuffix [for]="customerDateFrom"></mat-datepicker-toggle>
+                                <mat-datepicker #customerDateFrom></mat-datepicker>
+                            </mat-form-field>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <mat-form-field class="example-full-width">
+                                <input matInput placeholder="Article Description"  name="title" type="text" [(ngModel)]="Order.title">
+                            </mat-form-field>
+                        </div>
+                        <div class="col-md-6">
+                            <mat-form-field appearance="fill">
+                                <mat-label>Customer delivery date to</mat-label>
+                                <input matInput [matDatepicker]="customerDateTo" name="deliveryDateTo" [(ngModel)]="Order.deliveryDateTo">
+                                <mat-datepicker-toggle matSuffix [for]="customerDateTo"></mat-datepicker-toggle>
+                                <mat-datepicker #customerDateTo></mat-datepicker>
+                            </mat-form-field>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <mat-form-field appearance="fill">
+                                <mat-label>Customer</mat-label>
+                                <mat-select required [(ngModel)]="Order.customer.id" name="customer">
+                                    <mat-option *ngFor="let item of Order.customers" name="customers" [value]="item.id">
+
+                                        {{item.title}}
+                                    </mat-option>
+                                </mat-select>
+                            </mat-form-field>
+                        </div>
+                        <div class="col-md-6">
+                          <mat-form-field class="example-full-width">
+                              <input matInput placeholder="LOT" type="text" name="lot" [(ngModel)]="Order.lot">
+                          </mat-form-field>
+                      </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <mat-form-field class="example-full-width">
+                                <input matInput placeholder="Quantity ordered by Customer" type="number" name="quantityOrderedByClient" [(ngModel)]="Order.quantityOrderedByClient">
+                            </mat-form-field>
+                        </div>
+                        <div class="col-md-6">
+                          <mat-form-field appearance="fill">
+                              <mat-label>Season</mat-label>
+                              <mat-select required [(ngModel)]="Order.season" name="season">
+                                  <mat-option *ngFor="let item of Order.seasons" name="seasons" [value]="item">
+                                      {{item}}
+                                  </mat-option>
+                              </mat-select>
+                          </mat-form-field>
+                      </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <mat-form-field class="example-full-width">
+                                <input matInput placeholder="Quantity placed at factory" type="number" name="quantityPlacedAtFactory" [(ngModel)]="Order.quantityPlacedAtFactory">
+                            </mat-form-field>
+                        </div>
+                        <div class="col-md-6">
+                          <mat-form-field appearance="fill">
+                              <mat-label>Product Group</mat-label>
+                              <mat-select required [(ngModel)]="Order.productCategory" name="productCategory">
+                                  <mat-option *ngFor="let item of Order.productCategories" name="productCategories" [value]="item">
+                                      {{item}}
+                                  </mat-option>
+                              </mat-select>
+                          </mat-form-field>
+                      </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <mat-form-field class="example-full-width">
+                                <input matInput placeholder="Carton count" type="number" name="cartonCount" [(ngModel)]="Order.cartonCount">
+                            </mat-form-field>
+                        </div>
+                        <div class="col-md-6">
+                          <mat-form-field appearance="fill">
+                              <mat-label>Department</mat-label>
+                              <mat-select [(ngModel)]="Order.department" name="department">
+                                  <mat-option *ngFor="let item of Order.departments" name="departments" [value]="item">
+                                      {{item}}
+                                  </mat-option>
+                              </mat-select>
+                          </mat-form-field>
+                      </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <mat-form-field class="example-full-width">
+                                <input matInput placeholder="Customer Article number" name="customerArticleNumber" type="text" [(ngModel)]="Order.customerArticleNumber">
+                            </mat-form-field>
+                        </div>
+                    </div>
+                    <div class="clearfix"></div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-6 col-md-12">
+        <div class="card">
+            <div class="card-body table-responsive">
+                ONLY DUMMY DATA to show how it could look like in future
+                <table class="table table-hover">
+                    <thead>
+                        <tr style="background-color: #00AA8D; color: #fff;">
+                            <th>Main</th>
+                            <th>OrderId</th>
+                            <th>Customer</th>
+                            <th>Delivery Date</th>
+                            <th>Quantity</th>
+                            <th>Details</th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                        <tr *ngFor="let dataItem of Order.otherOrders">
+                          <td>{{dataItem.isMain}}</td>
+                          <td>{{dataItem.orderNumber}}</td>
+                          <td>{{dataItem.customer}}</td>
+                          <td>{{dataItem.deliveryDate}}</td>
+                          <td>{{dataItem.quantity}}</td>
+                          <td>
+                            <a type="button" class="btn btn-info" routerLink="/dashboard/{{dataItem.orderId}}" target="_blank">Detail</a>
+                          </td>
+                        </tr>
+                      </tbody>
+                </table>
+                <!-- <a mat-button routerLink="/edit-dashboard" class="btn btn-info">New Associated Order</a> -->
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-12 col-md-12">
+        <div class="card">
+            <div class="card-body">
+                <form>
+                    <div class="row">
+                        <div class="col-md-3">
+                            <label>Beschaffung</label>
+                            <mat-form-field appearance="fill">
+                              <mat-label>SupplierDeliveryDate last possibility</mat-label>
+                              <input matInput [matDatepicker]="supplierDeliveryDateLastPossibility" name="supplierDeliveryDateLastPossibility" [(ngModel)]="Order.supplierDeliveryDateLastPossibility">
+                              <mat-datepicker-toggle matSuffix [for]="supplierDeliveryDateLastPossibility"></mat-datepicker-toggle>
+                              <mat-datepicker #supplierDeliveryDateLastPossibility></mat-datepicker>
+                          </mat-form-field>
+                        </div>
+                        <div class="col-md-3">
+                            <label>Enquiry and Order confirmation</label>
+                            <mat-form-field appearance="fill">
+                                <mat-label>Terms of Delivery Incoming</mat-label>
+                                <mat-select [(ngModel)]="Order.termsOfDeliveryIncoming.id" name="termsOfDeliveryIncoming">
+                                    <mat-option *ngFor="let item of Order.termsOfDeliveryIncomings" name="termsOfDeliveryIncomings" [value]="item.id">
+                                        {{item.title}}
+                                    </mat-option>
+                                </mat-select>
+                            </mat-form-field>
+                        </div>
+                        <div class="col-md-3">
+                            <label>Accounting</label>
+                            <mat-form-field appearance="fill">
+                                <mat-label>Terms of Payment</mat-label>
+                                <mat-select [(ngModel)]="Order.termsOfPayment" name="termsOfPayment">
+                                    <mat-option *ngFor="let item of Order.termsOfPayments" name="termsOfPayments" [value]="item">
+                                        {{item}}
+                                    </mat-option>
+                                </mat-select>
+                            </mat-form-field>
+                        </div>
+                        <div class="col-md-3">
+                            <label>Processing</label>
+                            <mat-form-field class="example-full-width">
+                              <input matInput placeholder="Merchandiser QB" name="merchandiserQB" type="text" [(ngModel)]="Order.merchandiserQB">
+                          </mat-form-field>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3">
+                          <mat-form-field appearance="fill">
+                            <mat-label>SupplierDelivery Date new</mat-label>
+                            <input matInput [matDatepicker]="supplierDeliveryDateNew" name="supplierDeliveryDateNew" [(ngModel)]="Order.supplierDeliveryDateNew">
+                            <mat-datepicker-toggle matSuffix [for]="supplierDeliveryDateNew"></mat-datepicker-toggle>
+                            <mat-datepicker #supplierDeliveryDateNew></mat-datepicker>
+                        </mat-form-field>
+                        </div>
+                        <div class="col-md-3">
+                            <mat-form-field appearance="fill">
+                                <mat-label>Terms of Delivery Outgoing</mat-label>
+                                <mat-select [(ngModel)]="Order.termsOfDeliveryOutgoing.id" name="termsOfDeliveryOutgoing">
+                                    <mat-option *ngFor="let item of Order.termsOfDeliveryOutgoings" name="termsOfDeliveryOutgoings" [value]="item.id">
+                                        {{item.title}}
+                                    </mat-option>
+                                </mat-select>
+                            </mat-form-field>
+                        </div>
+                        <div class="col-md-3">
+                            <mat-form-field appearance="fill">
+                                <mat-label>LC Status</mat-label>
+                                <mat-select [(ngModel)]="Order.lcStatus" name="lcStatus">
+                                    <mat-option *ngFor="let item of Order.lcStatuses" name="lcStatuses" [value]="item">
+                                        {{item}}
+                                    </mat-option>
+                                </mat-select>
+                            </mat-form-field>
+                        </div>
+
+                        <div class="col-md-3">
+                          <mat-form-field class="example-full-width">
+                            <input matInput placeholder="Packing QB" type="text" name="packingQB" [(ngModel)]="Order.packingQB">
+                        </mat-form-field>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3">
+                            <mat-form-field appearance="fill">
+                                <mat-label>SupplierDelivery Date Original</mat-label>
+                                <input matInput [matDatepicker]="supplierDeliveryDateOriginal" name="supplierDeliveryDateOriginal" [(ngModel)]="Order.supplierDeliveryDateOriginal">
+                                <mat-datepicker-toggle matSuffix [for]="supplierDeliveryDateOriginal"></mat-datepicker-toggle>
+                                <mat-datepicker #supplierDeliveryDateOriginal></mat-datepicker>
+                            </mat-form-field>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="form-check">
+                                <label class="form-check-label">
+                                    <input class="form-check-input" type="checkbox" name="termsOfDeliveryFixed" [(ngModel)]="Order.termsOfDeliveryFixed">
+                                    Terms of Delivery Fixed
+                                    <span class="form-check-sign">
+                                        <span class="check"></span>
+                                    </span>
+                                </label>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                          <mat-form-field appearance="fill">
+                              <mat-label>BL received Date</mat-label>
+                              <input matInput [matDatepicker]="blReceivedDate" name="blReceivedDate" [(ngModel)]="Order.blReceivedDate">
+                              <mat-datepicker-toggle matSuffix [for]="blReceivedDate"></mat-datepicker-toggle>
+                              <mat-datepicker #blReceivedDate></mat-datepicker>
+                          </mat-form-field>
+                      </div>
+                        <div class="col-md-3">
+                            <mat-form-field appearance="fill">
+                                <mat-label>Placed at supplier</mat-label>
+                                <input matInput [matDatepicker]="supplierDate" name="orderPlacedAtSupplier" [(ngModel)]="Order.orderPlacedAtSupplier">
+                                <mat-datepicker-toggle matSuffix [for]="supplierDate"></mat-datepicker-toggle>
+                                <mat-datepicker #supplierDate></mat-datepicker>
+                            </mat-form-field>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3">
+                          <mat-form-field appearance="fill">
+                            <mat-label>ShipmentDate</mat-label>
+                            <input matInput [matDatepicker]="shipmentDate" name="shipmentDate" [(ngModel)]="Order.shipmentDate">
+                            <mat-datepicker-toggle matSuffix [for]="shipmentDate"></mat-datepicker-toggle>
+                            <mat-datepicker #shipmentDate></mat-datepicker>
+                        </mat-form-field>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3">
+                          <mat-form-field appearance="fill">
+                            <mat-label>ShipmentDate New</mat-label>
+                            <input matInput [matDatepicker]="shipmentDateNew" name="shipmentDateNew" [(ngModel)]="Order.shipmentDateNew">
+                            <mat-datepicker-toggle matSuffix [for]="shipmentDateNew"></mat-datepicker-toggle>
+                            <mat-datepicker #shipmentDateNew></mat-datepicker>
+                        </mat-form-field>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3">
+                          <mat-form-field class="example-full-width">
+                            <input matInput placeholder="Shipname" name="shipname" type="text" [(ngModel)]="Order.shipname">
+                        </mat-form-field>
+                        </div>
+                    </div>
+                    <div class="clearfix"></div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-12 col-md-12">
+      <div class="card">
+          <div class="card-body">
+              <form>
+                  <div class="row">
+                      <div class="col-md-3">
+                          <label>Laboratory</label>
+                          <mat-form-field appearance="fill">
+                              <mat-label>FRI Laboratory</mat-label>
+                              <mat-select [(ngModel)]="Order.friLab" name="friLab">
+                                  <mat-option *ngFor="let item of Order.friLabs" name="friLabs" [value]="item">
+                                      {{item}}
+                                  </mat-option>
+                              </mat-select>
+                          </mat-form-field>
+                      </div>
+                      <div class="col-md-3">
+                        <label>Endkunde</label>
+                        <!-- <mat-form-field appearance="fill">
+                          <mat-label>Endcustomer</mat-label> -->
+                          <!-- <mat-select [(ngModel)]="Order.endCustomer.id" name="endCustomer">
+                              <mat-option *ngFor="let item of Order.endCustomers" name="endCustomers" [value]="item.id">
+                                  {{item.title}}
+                              </mat-option>
+                          </mat-select> -->
+                      <!-- </mat-form-field> -->
+                    </div>
+                  </div>
+                  <div class="row">
+                      <div class="col-md-3">
+                          <mat-form-field appearance="fill">
+                              <mat-label>Latest FRI Date</mat-label>
+                              <input matInput [matDatepicker]="latestfridate" name="latestfridate" [(ngModel)]="Order.latestfridate">
+                              <mat-datepicker-toggle matSuffix [for]="latestfridate"></mat-datepicker-toggle>
+                              <mat-datepicker #latestfridate></mat-datepicker>
+                          </mat-form-field>
+                      </div>
+                      <div class="col-md-3">
+                        <div class="form-check">
+                            <label class="form-check-label">
+                                <input class="form-check-input" type="checkbox" name="isOrderWithoutFixedCustomer" [(ngModel)]="Order.isOrderWithoutFixedCustomer">
+                                Order without fixed customer
+                                <span class="form-check-sign">
+                                    <span class="check"></span>
+                                </span>
+                            </label>
+                        </div>
+                    </div>
+                  </div>
+                  <div class="row">
+                      <div class="col-md-3">
+                          <mat-form-field appearance="fill">
+                              <mat-label>FRI Date</mat-label>
+                              <input matInput [matDatepicker]="FRIDate" name="fri1date" [(ngModel)]="Order.fri1date">
+                              <mat-datepicker-toggle matSuffix [for]="FRIDate"></mat-datepicker-toggle>
+                              <mat-datepicker #FRIDate></mat-datepicker>
+                          </mat-form-field>
+                      </div>
+                  </div>
+                  <div class="row">
+                      <div class="col-md-3">
+                          <mat-form-field class="example-full-width">
+                              <input matInput placeholder="FRI Quantity" type="text" name="fri1Quantity" [(ngModel)]="Order.fri1Quantity">
+                          </mat-form-field>
+                      </div>
+                      <div class="col-md-3">
+                        <mat-form-field appearance="fill">
+                            <mat-label>Company</mat-label>
+                            <mat-select [(ngModel)]="Order.samplePickShortResult" name="samplePickShortResult">
+                                <mat-option *ngFor="let item of Order.samplePickShortResults" name="samplePickShortResults" [value]="item">
+                                    {{item}}
+                                </mat-option>
+                            </mat-select>
+                        </mat-form-field>
+                    </div>
+                  </div>
+                  <div class="row">
+                      <div class="col-md-3">
+                          <mat-form-field appearance="fill">
+                              <mat-label>Latest Reporting Date</mat-label>
+                              <input matInput [matDatepicker]="lastReportDate" name="latestETA" [(ngModel)]="Order.latestETA">
+                              <mat-datepicker-toggle matSuffix [for]="lastReportDate"></mat-datepicker-toggle>
+                              <mat-datepicker #lastReportDate></mat-datepicker>
+                          </mat-form-field>
+                      </div>
+                  </div>
+                  <div class="row">
+                      <div class="col-md-3">
+                          <mat-form-field appearance="fill">
+                              <mat-label>Testing Laboratory</mat-label>
+                              <mat-select [(ngModel)]="Order.testingLab" name="testingLab">
+                                  <mat-option *ngFor="let item of Order.testingLabs" name="testingLabs" [value]="item">
+                                      {{item}}
+                                  </mat-option>
+                              </mat-select>
+                          </mat-form-field>
+                      </div>
+                  </div>
+                  <div class="row">
+                      <div class="col-md-3">
+                          <mat-form-field appearance="fill">
+                              <mat-label>Original sapmle Pick date</mat-label>
+                              <input matInput [matDatepicker]="OriginalPickDate" name="originalSamplePick" [(ngModel)]="Order.originalSamplePick">
+                              <mat-datepicker-toggle matSuffix [for]="OriginalPickDate"></mat-datepicker-toggle>
+                              <mat-datepicker #OriginalPickDate></mat-datepicker>
+                          </mat-form-field>
+                      </div>
+                  </div>
+                  <div class="row">
+                      <div class="col-md-3">
+                          <mat-form-field appearance="fill">
+                              <mat-label>New sample pick date</mat-label>
+                              <input matInput [matDatepicker]="newPickDate" name="newSamplePick" [(ngModel)]="Order.newSamplePick">
+                              <mat-datepicker-toggle matSuffix [for]="newPickDate"></mat-datepicker-toggle>
+                              <mat-datepicker #newPickDate></mat-datepicker>
+                          </mat-form-field>
+                      </div>
+                  </div>
+                  <div class="row">
+                      <div class="col-md-3">
+                          <mat-form-field appearance="fill">
+                              <mat-label>Sample Pick Short Result</mat-label>
+                              <mat-select [(ngModel)]="Order.samplePickShortResult" name="samplePickShortResult">
+                                  <mat-option *ngFor="let item of Order.samplePickShortResults" name="samplePickShortResults" [value]="item">
+                                      {{item}}
+                                  </mat-option>
+                              </mat-select>
+                          </mat-form-field>
+                      </div>
+                  </div>
+                  <div class="clearfix"></div>
+              </form>
+          </div>
+      </div>
+  </div>
+</div>
+

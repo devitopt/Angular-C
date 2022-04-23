@@ -1,0 +1,580 @@
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\appsettings.json
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\API.exe
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\API.deps.json
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\API.runtimeconfig.json
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\API.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\ref\API.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\API.pdb
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\obj\Debug\net5.0\API.csprojAssemblyReference.cache
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\obj\Debug\net5.0\API.csproj.CopyComplete
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\obj\Debug\net5.0\API.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\obj\Debug\net5.0\ref\API.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\obj\Debug\net5.0\API.pdb
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\Azure.Identity.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\Azure.Security.KeyVault.Certificates.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\Azure.Security.KeyVault.Secrets.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.Graph.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.Graph.Core.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.Identity.Web.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.Identity.Web.MicrosoftGraph.dll
+C:\Users\heinemann\Documents\GitHub\GLDOrderProg\OrderProg\Backend\API\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\farha\OneDrive\Pictures\Current Projects\Martin - Angular .Net - Germany\OrderProg\OrderProg\Backend\API\obj\Debug\net5.0\API.pdb
+G:\Qaiser\OtherProject\OrderProg\Backend\API\obj\Debug\net5.0\API.pdb
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\appsettings.Development.json
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\appsettings.json
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\API.exe
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\API.deps.json
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\API.runtimeconfig.json
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\API.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\ref\API.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\API.pdb
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\Azure.Core.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\Azure.Identity.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\Azure.Security.KeyVault.Certificates.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\Azure.Security.KeyVault.Secrets.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\EntityFramework.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\Humanizer.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.Graph.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.Graph.Core.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.Identity.Web.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.Identity.Web.MicrosoftGraph.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\System.CodeDom.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\System.Data.SqlClient.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\System.Runtime.Caching.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\obj\Debug\net5.0\API.csproj.AssemblyReference.cache
+G:\Qaiser\OtherProject\OrderProg\Backend\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+G:\Qaiser\OtherProject\OrderProg\Backend\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+G:\Qaiser\OtherProject\OrderProg\Backend\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+G:\Qaiser\OtherProject\OrderProg\Backend\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+G:\Qaiser\OtherProject\OrderProg\Backend\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+G:\Qaiser\OtherProject\OrderProg\Backend\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+G:\Qaiser\OtherProject\OrderProg\Backend\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+G:\Qaiser\OtherProject\OrderProg\Backend\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+G:\Qaiser\OtherProject\OrderProg\Backend\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+G:\Qaiser\OtherProject\OrderProg\Backend\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+G:\Qaiser\OtherProject\OrderProg\Backend\API\obj\Debug\net5.0\API.csproj.CopyComplete
+G:\Qaiser\OtherProject\OrderProg\Backend\API\obj\Debug\net5.0\API.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\obj\Debug\net5.0\ref\API.dll
+G:\Qaiser\OtherProject\OrderProg\Backend\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\appsettings.Development.json
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\appsettings.json
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\API.exe
+e:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\API.deps.json
+e:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\API.runtimeconfig.json
+e:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\API.dll
+e:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\ref\API.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\API.pdb
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\Azure.Core.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\Azure.Identity.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\Azure.Security.KeyVault.Certificates.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\Azure.Security.KeyVault.Secrets.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\EntityFramework.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\Humanizer.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\Microsoft.Graph.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\Microsoft.Graph.Core.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\Microsoft.Identity.Web.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\Microsoft.Identity.Web.MicrosoftGraph.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\System.CodeDom.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\System.Data.SqlClient.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+e:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\obj\Debug\net5.0\API.csproj.CopyComplete
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\obj\Debug\net5.0\API.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\obj\Debug\net5.0\ref\API.dll
+E:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\obj\Debug\net5.0\API.pdb
+e:\Qaiser\Other\OrderProg\OrderWeb\Backend\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\appsettings.Development.json
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\appsettings.json
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\API.exe
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\API.deps.json
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\API.runtimeconfig.json
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\API.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\ref\API.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\API.pdb
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\Azure.Core.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\Azure.Identity.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\Azure.Security.KeyVault.Certificates.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\Azure.Security.KeyVault.Secrets.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\EntityFramework.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\Humanizer.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\Microsoft.Graph.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\Microsoft.Graph.Core.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\Microsoft.Identity.Web.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\Microsoft.Identity.Web.MicrosoftGraph.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\System.CodeDom.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\System.Data.SqlClient.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\System.Runtime.Caching.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\obj\Debug\net5.0\API.csproj.CopyComplete
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\obj\Debug\net5.0\API.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\obj\Debug\net5.0\ref\API.dll
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\obj\Debug\net5.0\API.pdb
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+G:\Qaiser\OtherProject\OrderProg\OrderProgWeb\Backend\API\obj\Debug\net5.0\API.csproj.AssemblyReference.cache
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\appsettings.Development.json
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\appsettings.json
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\API.exe
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\API.deps.json
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\API.runtimeconfig.json
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\API.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\ref\API.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\API.pdb
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\Azure.Core.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\Azure.Identity.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\Azure.Security.KeyVault.Certificates.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\Azure.Security.KeyVault.Secrets.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\EntityFramework.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\Humanizer.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.Graph.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.Graph.Core.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.Identity.Web.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.Identity.Web.MicrosoftGraph.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\System.CodeDom.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\obj\Debug\net5.0\API.csproj.AssemblyReference.cache
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\obj\Debug\net5.0\API.csproj.CopyComplete
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\obj\Debug\net5.0\API.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\obj\Debug\net5.0\ref\API.dll
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\obj\Debug\net5.0\API.pdb
+C:\Projects\OrderProg by Sir Qaiser\OrderProg\Backend\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\appsettings.json
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\API.exe
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\API.deps.json
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\API.runtimeconfig.json
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\API.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\ref\API.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\API.pdb
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\Azure.Identity.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\Azure.Security.KeyVault.Certificates.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\Azure.Security.KeyVault.Secrets.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.Graph.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.Graph.Core.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.Identity.Web.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.Identity.Web.MicrosoftGraph.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\obj\Debug\net5.0\API.csprojAssemblyReference.cache
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\obj\Debug\net5.0\API.csproj.CopyComplete
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\obj\Debug\net5.0\API.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\obj\Debug\net5.0\ref\API.dll
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\obj\Debug\net5.0\API.pdb
+C:\Users\heinemann\Downloads\OrderProg\Backend\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\appsettings.Development.json
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\appsettings.json
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\API.exe
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\API.deps.json
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\API.runtimeconfig.json
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\API.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\ref\API.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\API.pdb
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\Azure.Core.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\Azure.Identity.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\Azure.Security.KeyVault.Certificates.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\Azure.Security.KeyVault.Secrets.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\EntityFramework.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\Humanizer.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.Graph.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.Graph.Core.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.Identity.Web.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.Identity.Web.MicrosoftGraph.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\System.CodeDom.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\obj\Debug\net5.0\API.csproj.CopyComplete
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\obj\Debug\net5.0\API.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\obj\Debug\net5.0\ref\API.dll
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\obj\Debug\net5.0\API.pdb
+D:\Feelancing Project\Angular  C#\OrderProg\Backend\API\obj\Debug\net5.0\API.genruntimeconfig.cache

@@ -1,0 +1,163 @@
+<div class="row">
+    <div class="col-md-12">
+        <div class="card">
+
+            <div class="card-body">
+                <div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <label> Purchase Price 1</label>
+                            <mat-form-field class="example-full-width">
+                                <input matInput placeholder="Purchase Price 1" type="number" name="purchasePrice1" [(ngModel)]="Order.purchasePrice1" required>
+                            </mat-form-field>
+                        </div>
+                        <div class="col-md-6">
+                            <label> Selling Price</label>
+                            <mat-form-field class="example-full-width">
+                                <input matInput placeholder="Selling Price GP" type="number" name="vkgp" [(ngModel)]="Order.vkgp">
+                            </mat-form-field>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <mat-form-field class="example-full-width">
+                                <input matInput placeholder="Purchase Price 2" type="number" name="purchasePrice2" [(ngModel)]="Order.purchasePrice2">
+                            </mat-form-field>
+                        </div>
+                        <div class="col-md-6">
+                            <mat-form-field class="example-full-width">
+                                <input matInput placeholder="Selling Price incl, incoterm" type="number" name="vkgpNachLB" [(ngModel)]="Order.vkgpNachLB" required>
+                            </mat-form-field>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <mat-form-field class="example-full-width">
+                                <input matInput placeholder="Purchase Price 3" type="number" name="purchasePrice3" [(ngModel)]="Order.purchasePrice3">
+                            </mat-form-field>
+                        </div>
+                        <div class="col-md-6">
+                            <mat-form-field appearance="fill">
+                                <mat-label>Currency Selling Price</mat-label>
+                                <mat-select required [(ngModel)]="Order.currencyVK.id">
+                                    <mat-option *ngFor="let item of Order.currencies" name="currencyVK" [value]="item.id">
+                                        {{item.title}}
+                                    </mat-option>
+                                </mat-select>
+                            </mat-form-field>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <mat-form-field appearance="fill">
+                                <mat-label>Currency Purchase Price</mat-label>
+                                <mat-select required [(ngModel)]="Order.currencyEKAufschlag.id">
+                                    <mat-option *ngFor="let item of Order.currencies" name="currency" [value]="item.id">
+                                        {{item.title}}
+                                    </mat-option>
+                                </mat-select>
+                            </mat-form-field>
+                        </div>
+                        <div class="col-md-6">
+                            <mat-form-field class="example-full-width">
+                                <input matInput placeholder="Exchange Rate Selling Price GP" type="number" name="exchangeRateVK" [(ngModel)]="Order.exchangeRateVK">
+                            </mat-form-field>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <mat-form-field class="example-full-width">
+                                <input matInput placeholder="Exchange Rate Purchase Price" type="number" name="exchangeRatePurchasePrice" [(ngModel)]="Order.exchangeRatePurchasePrice">
+                            </mat-form-field>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-check">
+                                <label class="form-check-label">
+                                <input class="form-check-input" type="checkbox" name="ekNotFixed" [(ngModel)]="Order.ekNotFixed">
+                                Purchase Price not Fixed
+                                <span class="form-check-sign">
+                                    <span class="check"></span>
+                                </span>
+                            </label>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <mat-form-field class="example-full-width">
+                                <input matInput placeholder="Rate of Duty" type="number" name="rateOfDutyPurchasePrice" [(ngModel)]="Order.rateOfDutyPurchasePrice">
+                            </mat-form-field>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="card">
+                                <div class="card-body table-responsive">
+                                    <table class="table table-hover">
+
+                                        <thead>
+                                            <tr style="background-color: #00AA8D; color: #fff;">
+                                                <th>Markup Type</th>
+                                                <th>Markup</th>
+                                                <th>Markup Currency</th>
+                                                <th>Markup Exchange Rate</th>
+                                                <th>Details</th>
+                                                <th>Remove</th>
+                                            </tr>
+                                        </thead>
+
+                                        <tbody>
+                                            <tr *ngFor="let data of markupTable; index as i">
+                                                <td>{{data.type}}</td>
+                                                <td>{{data.markup}}$</td>
+                                                <td>{{data.currency}}</td>
+                                                <td>{{data.rate}}</td>
+                                                <td><button class="btn btn-success" (click)="openPricingModal1(true, i)">Details</button></td>
+                                                <td><button class="btn btn-danger" (click)="removeMarkup(i)">Remove</button></td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <button (click)="openPricingModal1(false, 0)" class="btn btn-info">New Purchase Price Markup</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="card">
+                                <div class="card-body table-responsive">
+                                    <table class="table table-hover">
+                                        <thead>
+                                            <tr style="background-color: #00AA8D; color: #fff;">
+                                                <th>Markdown Type</th>
+                                                <th>Markdown</th>
+                                                <th>Markdown Currency</th>
+                                                <th>Markdown Exchange Rate</th>
+                                                <th>Details</th>
+                                                <th>Remove</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr *ngFor="let data of markdownTable; index as i">
+                                                <td>{{data.type}}</td>
+                                                <td>{{data.markdown}}$</td>
+                                                <td>{{data.currency}}</td>
+                                                <td>{{data.rate}}</td>
+                                                <td><button class="btn btn-success" (click)="openPricingModal2(true, i)">Details</button></td>
+                                                <td><button class="btn btn-danger" (click)="removeMarkdown(i)">Remove</button></td>
+                                            </tr>
+
+                                        </tbody>
+                                    </table>
+                                    <button (click)="openPricingModal2(false, 0)" class="btn btn-info">New Purchase Price Markdown</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>

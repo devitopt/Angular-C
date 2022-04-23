@@ -1,0 +1,276 @@
+<div class="container-fluid">
+    <div class="card">
+        <div class="card-body">
+            <div class="row">
+                <div class="col-md-3">
+                   
+                    <mat-form-field class="example-full-width">
+   
+                        <input matInput [matDatepicker]="reportAldiDate" placeholder="Report Aldi Date" name="reportAldiDate"
+                            [(ngModel)]="Order?.dprqbs.reportAldiDate">
+                        <mat-datepicker-toggle matSuffix [for]="reportAldiDate"></mat-datepicker-toggle>
+                        <mat-datepicker #reportAldiDate></mat-datepicker>
+                    </mat-form-field>
+                </div>
+
+                <div class="col-md-3">
+                    <mat-form-field class="example-full-width">
+                        <input matInput [matDatepicker]="OnSaleDate" placeholder="On Sale Date" name="OnSaleDate"
+                            [(ngModel)]="Order?.dprqbs.onSaleDate">
+                        <mat-datepicker-toggle matSuffix [for]="OnSaleDate"></mat-datepicker-toggle>
+                        <mat-datepicker #OnSaleDate></mat-datepicker>
+                    </mat-form-field>
+                </div>
+
+                
+                <div class="col-md-3">
+                    <mat-form-field class="example-full-width">
+                        <input matInput [matDatepicker]="RevisedEtd" placeholder="Revised Etd" type="text" name="RevisedEtd"
+                            [(ngModel)]="Order?.dprqbs.revisedEtd">
+                              <mat-datepicker-toggle matSuffix [for]="RevisedEtd"></mat-datepicker-toggle>
+                        <mat-datepicker #RevisedEtd></mat-datepicker>
+                    </mat-form-field>
+                </div>
+                <div class="col-md-3">
+                    <mat-form-field class="example-full-width">
+                        <input matInput [matDatepicker]="RevisedEta" placeholder="Revised Eta" type="text" name="RevisedEta"
+                            [(ngModel)]="Order?.dprqbs.revisedEta">
+                             <mat-datepicker-toggle matSuffix [for]="RevisedEta"></mat-datepicker-toggle>
+                        <mat-datepicker #RevisedEta></mat-datepicker>
+                    </mat-form-field>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-3">
+                    <mat-form-field class="example-full-width">
+                        <input matInput type="number"
+                            placeholder="Styles Count" name="StylesCount"
+                            [(ngModel)]="Order?.dprqbs.stylesCount">
+                    </mat-form-field>
+                </div>
+
+                <div class="col-md-3">
+                    <mat-form-field class="example-full-width">
+                        <input matInput placeholder="Knit Woven" type="text" name="KnitWoven"
+                            [(ngModel)]="Order?.dprqbs.knitWoven">
+                    </mat-form-field>
+                </div>
+
+                <div class="col-md-3">
+                    <mat-form-field class="example-full-width">
+                        <input matInput placeholder="Fabrics From" type="text" name="FabricsFrom"
+                            [(ngModel)]="Order?.dprqbs.fabricsFrom">
+                    </mat-form-field>
+                </div>
+                <div class="col-md-3">
+                    <mat-form-field class="example-full-width">
+                        <input matInput [matDatepicker]="PhotoSampleDueDate" placeholder="Photo SampleDue Date"
+                            type="text" name="PhotoSampleDueDate" [(ngModel)]="Order?.dprqbs.photoSampleDueDate">
+                        <mat-datepicker-toggle matSuffix [for]="PhotoSampleDueDate"></mat-datepicker-toggle>
+                        <mat-datepicker #PhotoSampleDueDate></mat-datepicker>
+                    </mat-form-field>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-3">
+                    <mat-form-field class="example-full-width">
+                        <input [matDatepicker]="CdExDate" matInput placeholder="Cd Ex Date"  name="CdExDate"
+                            [(ngModel)]="Order?.dprqbs.cdExDate">
+                        <mat-datepicker-toggle matSuffix [for]="CdExDate"></mat-datepicker-toggle>
+                        <mat-datepicker #CdExDate></mat-datepicker>
+                    </mat-form-field>
+                </div>
+
+                <div class="col-md-3">
+                    <mat-form-field class="example-full-width">
+                        <input matInput placeholder="Testing Lab" type="text" name="TestingLab"
+                            [(ngModel)]="Order?.dprqbs.testingLab">
+                    </mat-form-field>
+                </div>
+
+                <div class="col-md-3">
+                    <mat-form-field class="example-full-width">
+                        <input matInput [matDatepicker]="OrigSamplePickDate" placeholder="Orig Sample Pick Date"
+                            name="OrigSamplePickDate" [(ngModel)]="Order?.dprqbs.origSamplePickDate">
+                        <mat-datepicker-toggle matSuffix [for]="OrigSamplePickDate"></mat-datepicker-toggle>
+                        <mat-datepicker #OrigSamplePickDate></mat-datepicker>
+                    </mat-form-field>
+                </div>
+                <div class="col-md-3">
+                    <mat-form-field class="example-full-width">
+                        <input matInput placeholder="New Sample Pick Date" [matDatepicker]="NewSamplePickDate"
+                            name="NewSamplePickDate" [(ngModel)]="Order?.dprqbs.newSamplePickDate">
+                        <mat-datepicker-toggle matSuffix [for]="NewSamplePickDate"></mat-datepicker-toggle>
+                        <mat-datepicker #NewSamplePickDate></mat-datepicker>
+                    </mat-form-field>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-3">
+                    <mat-form-field class="example-full-width">
+                        <input matInput placeholder="Spshort Result" type="text" name="Spshort Result"
+                            [(ngModel)]="Order?.dprqbs.spshortResult">
+                    </mat-form-field>
+                </div>
+
+                <div class="col-md-3">
+                    <mat-form-field class="example-full-width">
+                        <input matInput placeholder="Spfinal Result" type="text" name="SpfinalResult"
+                            [(ngModel)]="Order?.dprqbs.testingLab">
+                    </mat-form-field>
+                </div>
+
+                <div class="col-md-3">
+                    <mat-form-field class="example-full-width">
+                        <input matInput placeholder="Frilab" type="text" name="Frilab" [(ngModel)]="Order?.dprqbs.frilab">
+                    </mat-form-field>
+                </div>
+                <div class="col-md-3">
+                    <mat-form-field class="example-full-width">
+                        <input matInput [matDatepicker]="Fri1Date" placeholder="Fri1 Date"  name="Fri1Date"
+                            [(ngModel)]="Order?.dprqbs.fri1Date">
+                        <mat-datepicker-toggle matSuffix [for]="Fri1Date"></mat-datepicker-toggle>
+                        <mat-datepicker #Fri1Date></mat-datepicker>
+                    </mat-form-field>
+                </div>
+            </div>
+
+
+            <div class="row">
+                <div class="col-md-3">
+                    <mat-form-field class="example-full-width">
+                        <input matInput placeholder="Fri1 Qty" type="number" name="Fri1Qty" [(ngModel)]="Order?.dprqbs.fri1Qty">
+                    </mat-form-field>
+                </div>
+
+                <div class="col-md-3">
+                    <mat-form-field class="example-full-width">
+                        <input matInput placeholder="Fri1 Result" type="text" name="Fri1Result"
+                            [(ngModel)]="Order?.dprqbs.fri1Result">
+                    </mat-form-field>
+                </div>
+
+                <div class="col-md-3">
+                    <mat-form-field class="example-full-width">
+                        <input matInput [matDatepicker]="Fri2Date" placeholder="Fri2 Date"  name="Fri2Date"
+                            [(ngModel)]="Order?.dprqbs.fri2Date">
+                            <mat-datepicker-toggle matSuffix [for]="Fri2Date"></mat-datepicker-toggle>
+                        <mat-datepicker #Fri2Date></mat-datepicker>
+                    </mat-form-field>
+                </div>
+                <div class="col-md-3">
+                    <mat-form-field class="example-full-width">
+                        <input matInput placeholder="Fri2 Qty" type="number" name="Fri2Qty" [(ngModel)]="Order?.dprqbs.fri2Qty">
+                    </mat-form-field>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-3">
+                    <mat-form-field class="example-full-width">
+                        <input matInput placeholder="Fri2 Result" type="text" name="Fri2Result"
+                            [(ngModel)]="Order?.dprqbs.fri2Result">
+                    </mat-form-field>
+                </div>
+
+                <div class="col-md-3">
+                    <mat-form-field class="example-full-width">
+                        <input matInput [matDatepicker]="Fri3Date"  placeholder="Fri3 Date"  name="Fri3Date"
+                            [(ngModel)]="Order?.dprqbs.fri3Date">
+                             <mat-datepicker-toggle matSuffix [for]="Fri3Date"></mat-datepicker-toggle>
+                        <mat-datepicker #Fri3Date></mat-datepicker>
+                    </mat-form-field>
+                </div>
+
+                <div class="col-md-3">
+                    <mat-form-field class="example-full-width">
+                        <input matInput placeholder="Fri3 Qty" type="number" name="Fri3Qty" [(ngModel)]="Order?.dprqbs.fri3Qty">
+                    </mat-form-field>
+                </div>
+                <div class="col-md-3">
+                    <mat-form-field class="example-full-width">
+                        <input matInput placeholder="Fri3 Result" type="number" name="Fri3Result"
+                            [(ngModel)]="Order?.dprqbs.fri3Result">
+                    </mat-form-field>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-3">
+                    <mat-form-field class="example-full-width">
+                        <input matInput placeholder="Forwarder Freight" type="text" name="ForwarderFreight"
+                            [(ngModel)]="Order?.dprqbs.forwarderFreight">
+                    </mat-form-field>
+                </div>
+
+                <div class="col-md-3">
+                    <mat-form-field class="example-full-width">
+                        <input matInput placeholder="Forwarder Delivery"  name="ForwarderDelivery"
+                            [(ngModel)]="Order?.dprqbs.forwarderDelivery">
+                    </mat-form-field>
+                </div>
+
+                <div class="col-md-3">
+                    <mat-form-field class="example-full-width">
+                        <input matInput [matDatepicker]="BlreceivedDate" placeholder="Blreceived Date" 
+                            name="BlreceivedDate" [(ngModel)]="Order?.dprqbs.blreceivedDate">
+                        <mat-datepicker-toggle matSuffix [for]="BlreceivedDate"></mat-datepicker-toggle>
+                        <mat-datepicker #BlreceivedDate></mat-datepicker>
+                    </mat-form-field>
+                </div>
+                <div class="col-md-3">
+
+                    <mat-form-field class="example-full-width">
+                        <input matInput placeholder="Comment" type="text" name="Comment" [(ngModel)]="Order?.dprqbs.comment">
+                    </mat-form-field>
+
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-3">
+                   <mat-form-field class="example-full-width">
+                        <input matInput placeholder="Comment2" type="text" name="Comment2"
+                            [(ngModel)]="Order?.dprqbs.comment2">
+                    </mat-form-field>
+                </div>
+
+                <div class="col-md-3">
+                    <mat-form-field class="example-full-width">
+                        <input matInput placeholder="MerchandiserSupplier" type="text" name="MerchandiserSupplier"
+                            [(ngModel)]="Order?.dprqbs.merchandiserSupplier">
+                    </mat-form-field>
+                </div>
+
+                <div class="col-md-3">
+                    <mat-form-field class="example-full-width">
+                        <input matInput [matDatepicker]="PhotoSampleRevisedDate" placeholder="Photo Sample Revised Date"
+                             name="PhotoSampleRevisedDate" [(ngModel)]="Order?.dprqbs.photoSampleRevisedDate">
+                        <mat-datepicker-toggle matSuffix [for]="PhotoSampleRevisedDate"></mat-datepicker-toggle>
+                        <mat-datepicker #PhotoSampleRevisedDate></mat-datepicker>
+                    </mat-form-field>
+                </div>
+                <div class="col-md-3">
+                    <mat-form-field class="example-full-width">
+                        <input matInput placeholder="Shipping Schedule"  name="ShippingSchedule"
+                            [(ngModel)]="Order?.dprqbs.shippingSchedule">
+                    </mat-form-field>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-3">
+                    <mat-form-field class="example-full-width">
+                        <input matInput  [matDatepicker]="ReSamplePick" placeholder="ReSample Pick" type="text" name="ReSamplePick"
+                            [(ngModel)]="Order?.dprqbs.reSamplePick">
+                              <mat-datepicker-toggle matSuffix [for]="ReSamplePick"></mat-datepicker-toggle>
+                        <mat-datepicker #ReSamplePick></mat-datepicker>
+                    </mat-form-field>
+                </div>
+
+                <div class="col-md-3">
+                   
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>

@@ -1,0 +1,4 @@
+https://www.freelancer.com/projects/angular-js/Angular-Application-Bugfixing
+
+round about 90% of the fields are mapped correctly from database to backend and to frontend
+and it must be checked if the fields are mapped correctly (testing) and adjust the fields that are not mapped correctly, remove fields and add some new as provided in screenshot with table and column name
